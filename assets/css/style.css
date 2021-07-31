@@ -102,7 +102,12 @@ footer a {
     margin-bottom: 15px;
     padding: 20px;
 }
-#contenido form * {
+
+#contenido form {
+    text-align: center;
+}
+
+#frm-inscripcion * {
     display: inline-block;
 }
 
